@@ -9,7 +9,7 @@ These instructions will get you a copy of the project up and running on your loc
 Write the command:
 
 ```
-git clone https://github.com/huarstudios/scrappin.git
+git clone https://github.com/huarstudios/Scrappin.git
 ```
 
 Within the directory, run the command:
