@@ -1,4 +1,4 @@
-# Scrappin - Updated 2021
+# Scrappin 
   
 Scrappin is a profile scraping tool for LinkedIn. Given a company name, it goes through a predefined list of departments and returns the employees, their job title, their work experience, and many more.
 
